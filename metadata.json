@@ -1,0 +1,5 @@
+{
+  "name": "Restaurador TKD",
+  "description": "Una aplicación web accesible para restaurar y mejorar fotografías utilizando inteligencia artificial de Google Gemini. Sube tu foto y elige el formato deseado.",
+  "requestFramePermissions": []
+}
